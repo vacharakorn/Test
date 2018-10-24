@@ -1,7 +1,7 @@
 Payment
-*Bill payment
+* Bill payment
 Sharing information
-*Customer profile
+* Customer profile
 Authentication
-*Server token
-*User access token
+* Server token
+* User access token
