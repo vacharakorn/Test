@@ -1,7 +1,9 @@
-##### Authentication
+Authentication
 - Server token
 - User access token
-##### Payment
+
+Payment
 - Bill payment
-##### Sharing information
+
+Sharing information
 - Customer profile
